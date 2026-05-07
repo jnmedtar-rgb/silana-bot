@@ -35,7 +35,7 @@ global.media = {
  thumbnail: 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
  thumb: 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
  logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- unReg: 'https://postimg.cc/sBkDn3Hc' target='_blank'><img src='https://i.postimg.cc/sBkDn3Hc/IMG-20260428-WA0076.webp' border='0' alt='IMG-20260428-WA0076'></a>',
+ unReg: 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
  registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
  akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
